@@ -1,1 +1,0 @@
-# redhat-sigma.github.io
